@@ -1,0 +1,5 @@
+-> comando para criar um modulo
+   nest g module "nome"
+   
+-> comando para criar controller
+   nest g controller "nome"
